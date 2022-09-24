@@ -1,0 +1,26 @@
+body {
+  background-color:rgb(100, 100, 100);
+  text-align:center;
+  font-size:larger;
+  font-family: Consolas;
+}
+
+#generatorBox {
+  display:inline-block;
+  border-style:solid;
+  padding:1em;
+  background-color:rgb(197, 197, 197);
+  
+}
+.checkBoxes {
+  display:flex;
+  justify-content:space-between;
+  
+}
+.button {
+  display:block;
+  justify-content:space-around;
+  margin-top:1rem;
+  margin-bottom:1rem;
+  font-family:Consolas;
+}
