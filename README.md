@@ -1,7 +1,7 @@
 # PasswordGenerator
  Password Generator using Vanilla JS, HTML, and CSS. It is my first attempt at using JS inside of a website.
  
- link: 
+ link: https://knoodlebowl.github.io/PasswordGenerator/
 
 # Description
   My creation has the ability to create a password with the choice
